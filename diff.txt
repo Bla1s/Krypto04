@@ -1,0 +1,41 @@
+md5sum personal.txt
+md5sum personal_.txt
+2cb9deeed10f05c857a05dd14c8a7555
+708cabbbbfc156329009b3335188f948
+Różniące się Bity: 68 z 128, Procentowo: 53.125%
+
+sha1sum personal.txt
+sha1sum personal_.txt
+d0034f9ccf584abbece63022373f850fc8b892c8
+6d06972bbb5baa5cbf20b8b5c626831cadf9a657
+Różniące się Bity: 76 z 160, Procentowo: 47.5%
+
+sha224sum personal.txt
+sha224sum personal_.txt
+0cd34c5c15249a4189d206c92491d21ff7676fd26747e03bbb132cde
+cccc3dd3661c25086d34c7cc21f0a00679ad97ca5e13138618752190
+Różniące się Bity: 109 z 224, Procentowo: 48.660714285714285%
+
+sha256sum personal.txt
+sha256sum personal_.txt
+c5ef0e03b1ad0269dc481589b89851490d340fdbaf83233ffd37f777b95dd525
+123f05614e4eabc5ec5b9e2d6435bdbe65a1f714b8365ea1e8a3f785d28c02a2
+Różniące się Bity: 138 z 256, Procentowo: 53.90625%
+
+sha384sum personal.txt
+sha384sum personal_.txt
+454f8db3d3b889b37a962d7f3821652035b2f0b810d16cff00cc8118c5ea4e37f28d47fed1411f9696b32634962ed1cb
+eb441f20c462283e81e7ce7f6f603e3c6197cea097e5bd0245e4dece879d9a4dea3d610647dca741476e5338d4e5566c
+Różniące się Bity: 191 z 384, Procentowo: 49.739583333333336%
+
+sha512sum personal.txt
+sha512sum personal_.txt
+d524e4ccb107f7c3551d8c2f1218b7581bad3f612bb8a0ac7d7ba2ece1b181e0d9a607bdcdec4011c5642b4b9ffe82bd68fe7219e889236b632e3c69e6242fef
+1e36f1d70c65d636dc8c8a861072a7b5d0304b4bfb5e757674de1595dc7ef340129548d25ff1cb7e64fc6bdb8ab311559d3a72d183ea1dfa8bc78ae62d93975b
+Różniące się Bity: 252 z 512, Procentowo: 49.21875%
+
+b2sum personal.txt
+b2sum personal_.txt
+07095fb7def00e58a23acfbb7538e7d589ab06efb4e2f121aa22d16c5507910ffcdd0aed863060871a058132abd4fd764e4bef32c127545fc37dd30c908475a5
+2f6ba5d12b4cffc007cfd6d0434ec9a57abc3da1cb13ad8cc4793d208afe6e3b4f67e0ef0b1b80b2d02a6083dea0133cdcc02b8eefd7e058f4859239f38edafc
+Różniące się Bity: 278 z 512, Procentowo: 54.296875%
